@@ -1,0 +1,3 @@
+Ability to rebase and resolve merge conflitcs.
+Ability to work on any review comments.
+follows commits message hygiene and consistency.
